@@ -227,6 +227,11 @@ section {
     color: var(--bg-color);
 }
 
+main > section:last-child .project-content {
+    border-bottom: none;
+    padding: 0rem;
+}
+
 /* Resume */
 .resume-container {
     width: 100%;
