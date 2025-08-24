@@ -69,7 +69,7 @@ h2 {
 }
 
 .terminal-prompt::before {
-    content: "$ ";
+    content: "> ";
     color: var(--secondary-color);
 }
 
